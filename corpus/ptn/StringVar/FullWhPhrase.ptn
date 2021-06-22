@@ -1,1 +1,0 @@
-@WH >> (/^WH/=print $ /S|SQ/ >> /^S/ >> /^N|^J|^RB|^PP|^A/)
