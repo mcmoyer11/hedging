@@ -4,5 +4,7 @@ results=/afs/.ir.stanford.edu/users/m/c/mcmoyer/projects/hedging/corpus/results/
 init ID
 
 add StringVar Sentence
-# add StringVar PreviousContext=10-b
-# add StringVar FollowingContext=10-a
+add ParseVar SentenceParse
+add StringVar Hedge
+add StringVar PreviousContext=10-b
+add StringVar FollowingContext=10-a
