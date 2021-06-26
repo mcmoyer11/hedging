@@ -6,5 +6,6 @@ init ID
 add StringVar Sentence
 add ParseVar SentenceParse
 add StringVar Hedge
+add CatVar Filler=yes:Filler
 add StringVar PreviousContext=10-b
 add StringVar FollowingContext=10-a
